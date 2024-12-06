@@ -7,3 +7,7 @@ xhofe/alist:latest
 python:alpine3.19
 centos
 prom/node-exporter
+prom/mysqld-exporter
+oliver006/redis_exporter
+prom/prometheus
+grafana/grafana
