@@ -11,3 +11,4 @@ prom/mysqld-exporter
 oliver006/redis_exporter
 prom/prometheus
 grafana/grafana
+awws/awws
